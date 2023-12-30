@@ -8,7 +8,7 @@ The dataset includes 11430 URLs with 87 extracted features. Features are from th
 The machine learning models used are Logistic Regression, Random Forest, and Support Vector Machines (SVM). The Random Forest classifier stood out as the best performing model.
 
 # Prerequisites
-- Python 3.11 or above.
+- Python 3.12 or above.
 - Python packages such as pandas, seaborn, matplotlib, and sklearn.
 - Jupyter Notebook.
 
