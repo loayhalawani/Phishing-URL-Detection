@@ -19,4 +19,8 @@ The machine learning models used are Logistic Regression, Random Forest, and Sup
 4. To install matplotlib, run: "pip install matplotlib"
 5. To install sklearn, run: "pip install scikit-learn"
 6. To install Jupyter Notebook, run: "pip install notebook"
-7. To start Jupyter Notebook, run: "jupter notebook"
+
+# Viewing & Editing
+1. Open any terminal
+2. Navigate to the directory of the downloaded Jupyter notebook and Excel sheet
+3. To view and edit the Jupyter notebook, run 'jupyter notebook phishing_url_detection.ipynb'
