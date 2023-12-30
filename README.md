@@ -6,21 +6,3 @@ The dataset includes 11430 URLs with 87 extracted features. Features are from th
 
 # Models
 The machine learning models used are Logistic Regression, Random Forest, and Support Vector Machines (SVM). The Random Forest classifier stood out as the best performing model.
-
-# Prerequisites
-- The latest version of Python.
-- Python packages such as pandas, seaborn, matplotlib, and sklearn.
-- Jupyter Notebook.
-
-# Install
-1. Open any terminal as administrator.
-2. To install pandas, run 'pip install pandas'.
-3. To install seaborn, run 'pip install seaborn'.
-4. To install matplotlib, run 'pip install matplotlib'.
-5. To install sklearn, run 'pip install scikit-learn'.
-6. To install Jupyter Notebook, run 'pip install notebook'.
-
-# View & Edit
-1. Open any terminal.
-2. Navigate to the path of the Python notebook and Excel sheet.
-3. To view and edit the Python notebook, run 'jupyter notebook phishing_url_detection.ipynb'.
