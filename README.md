@@ -17,5 +17,6 @@ The machine learning models used are Logistic Regression, Random Forest, and Sup
 2. To install pandas, run: "pip install pandas"
 3. To install seaborn, run: "pip install seaborn"
 4. To install matplotlib, run: "pip install matplotlib"
-5. To install Jupyter Notebook, run: "pip install notebook"
-6. To start Jupyter Notebook, run: "jupter notebook"
+5. To install sklearn, run: "pip install scikit-learn"
+6. To install Jupyter Notebook, run: "pip install notebook"
+7. To start Jupyter Notebook, run: "jupter notebook"
