@@ -23,4 +23,4 @@ The machine learning models used are Logistic Regression, Random Forest, and Sup
 # Viewing & Editing
 1. Open any terminal
 2. Navigate to the directory of the downloaded Jupyter notebook and Excel sheet
-3. To view and edit the Jupyter notebook, run 'jupyter notebook phishing_url_detection.ipynb'
+3. To view and edit Python notebook, run 'jupyter notebook phishing_url_detection.ipynb'
